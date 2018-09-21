@@ -1,0 +1,30 @@
+_repo: El-doncel-de-don-Enrique-el-doliente-Tomo-IV-de-4-Historia-caballeresca-del-siglo-quince_53590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larra, Mariano José de
+    aliases:
+    - Larra, Mariano Jose de
+    - De Larra, Mariano José
+    - Larra, José de
+    birthdate: 1809
+    deathdate: 1837
+    gutenberg_agent_id: '35308'
+    url: http://www.gutenberg.org/2009/agents/35308
+description: ''
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53590'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Henry III, King of Castile and León, 1379-1406 -- Fiction'
+- GITenberg
+title: 'El doncel de don Enrique el doliente, Tomo IV (de 4)
+
+  Historia caballeresca del siglo quince'
+url: http://www.gutenberg.org/ebooks/53590
